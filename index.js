@@ -1,2 +1,2 @@
 // Write your code here!
-document.body.remove()
+document.body.remove('main#main')
