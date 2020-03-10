@@ -1,2 +1,2 @@
 // Write your code here!
-document.body
+document.body.remove()
